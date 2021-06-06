@@ -1,0 +1,21 @@
+{
+  // Evernote JSHint settings
+  // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
+  // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+  // Documentation: http://www.jshint.com/docs/
+  "browser": true,
+  "esnext": true,
+  "jquery": true,
+  "node": true,
+  "eqeqeq": true,
+  "eqnull": false,
+  "curly": true,
+  "camelcase": true,
+  "globalstrict": true,
+  "smarttabs": true,
+  "trailing": true,
+  "undef": true,
+  "latedef": true,
+  "indent": 2,
+  "quotmark": "single"
+}
